@@ -1,0 +1,4 @@
+Food Chain 1: T-Rex, Velociraptor, Triceratops, Ferns
+Food Chain 2: Giganotosaurus, Allosaurus, Stegosaurus, Cycads
+Food Chain 3: T-Rex, Allosaurus, Triceratops, Cycads
+Food Chain 4: Giganotosaurus, Velociraptor, Stegosaurus, Ferns

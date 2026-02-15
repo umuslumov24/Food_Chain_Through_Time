@@ -1,0 +1,4 @@
+Food Chain 1: Alien Overlord, Alien Hunter, Human, Cow
+Food Chain 2: Leviathan, Cyborg, Robot, Energy Node
+Food Chain 3: Alien Overlord, Cyborg, Human, Energy Node
+Food Chain 4: Leviathan, Alien Hunter, Robot, Cow

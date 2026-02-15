@@ -1,0 +1,4 @@
+Food Chain 1: Lion, Cheetah, Bunny, Grass
+Food Chain 2: Polar Bear, Wolf, Deer, Shrubs
+Food Chain 3: Lion, Wolf, Deer, Shrubs
+Food Chain 4: Polar Bear, Cheetah, Bunny, Grass
